@@ -1,8 +1,8 @@
 # Sistema_Bancario
 Este é um projeto do curso de Desenvolvimento de Sistemas, onde criaremos um Sistema Bancário que terá as opções :
 
-Cadastrar cliente
-Excluir cliente
+- Cadastrar cliente
+- Excluir cliente
 Alterar cliente
 Transferência entre clientes
 Depositar
